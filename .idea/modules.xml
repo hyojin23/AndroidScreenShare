@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ScreenShareRTC.iml" filepath="$PROJECT_DIR$/ScreenShareRTC.iml" group="ScreenShareRTC" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ScreenShareRTC/app" />
+      <module fileurl="file://$PROJECT_DIR$/screensharemodule/screensharemodule.iml" filepath="$PROJECT_DIR$/screensharemodule/screensharemodule.iml" group="ScreenShareRTC/screensharemodule" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nkzawa:engine.io-client:0.4.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.4.1/9fa2901033b1e43a254a35bc82be281dfa7bc48f/engine.io-client-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.4.1/1a546b1f64138ddb62145a7d1c0fc42781f0cc97/engine.io-client-0.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.4.1/4ccd872122ead950a01d5d2d26bf7d1d70459d77/engine.io-client-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
